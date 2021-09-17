@@ -1,0 +1,13 @@
+- revisi : 
+kolom tabel keluhan : judul jadi subjek, keterangan jadi pesan
+
+- masih dalam proses :
+membuat grafik data laporan
+membuat super admin
+membedakan data yg ditampilkan pada admin sesuai login admin tiap provinsi
+dibuat jadi PWA
+
+- grafik pie : 
+baru aceh
+
+'Aceh','Bali', 'Banten', 'Bengkulu', 'DI Yogyakarta', 'DKI Jakarta', 'Gorontalo', 'Jambi', 'Jawa Barat', 'Jawa Tengah', 'Jawa Timur', 'Kalimantan Barat', 'Kalimantan Selatan', 'Kalimantan Tengah', 'Kalimantan Timur', 'Kalimantan Utara', 'Kep. Bangka Belitung', 'Kep. Riau', 'Lampung', 'Maluku', 'Maluku Utara', 'Nusa Tenggara Barat', 'Nusa Tenggara Timur', 'Papua', 'Papua Barat', 'Riau', 'Sulawesi Barat', 'Sulawesi Selatan', 'Sulawesi Tengah', 'Sulawesi Tenggara', 'Sulawesi Utara', 'Sumatra Barat', 'Sumatra Selatan', 'Sumatra Utara'
